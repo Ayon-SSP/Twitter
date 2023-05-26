@@ -150,8 +150,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'fanime492@gmail.com'
-EMAIL_HOST_PASSWORD = 'fzrsfhhtyjkdhxxw'
+EMAIL_HOST_USER = 'exptemptotest@gmail.com'
+EMAIL_HOST_PASSWORD = 'nocdzdqflssnnmra'
 
 SIMPLE_JWT = {
     "AUTH_HEADER_TYPES": ("JWT",),
@@ -175,7 +175,7 @@ DJOSER = {
     "ACTIVATION_URL": "activate/{uid}/{token}",
     "SEND_ACTIVATION_EMAIL": True,
     "SERIALIZERS": {
-        "user_create": "users.serializers.UserCreateSerializer",  # custom serializer
+        "user_create": "users.serializers.UserCreateSerializer",
         "user": "users.serializers.UserCreateSerializer",
         "current_user": "djoser.serializers.UserSerializer",
         "user_delete": "djoser.serializers.UserSerializer",
