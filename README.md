@@ -1,7 +1,5 @@
 # Twitter-API
 
-# Twitter-API
-
 
 **POST:** `http://127.0.0.1:8000/auth/users/`
 ```json
@@ -57,7 +55,7 @@ Response:
 
 
 
-
+# Twitter-API
 
 
 ```css
