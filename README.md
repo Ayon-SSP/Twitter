@@ -47,8 +47,10 @@ Response:
 
 ![image](https://github.com/Ayon-SSP/Twitter/assets/80549753/f3ca766f-b037-4ce2-9c47-50086878f4e8)
 
+![image](https://github.com/Ayon-SSP/Twitter/assets/80549753/5b099c99-73ca-45ce-84cf-a918d72f4518)
 
 
+![image](https://github.com/Ayon-SSP/Twitter/assets/80549753/0d2cd12f-a4e3-45d3-9259-a85e10947fb6)
 
 
 
